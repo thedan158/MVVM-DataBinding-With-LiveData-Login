@@ -1,0 +1,6 @@
+<application>
+  <component name="Emulator">
+    <option name="launchInToolWindow" value="true" />
+    <option name="showLaunchedStandaloneNotificationForFoldable" value="false" />
+  </component>
+</application>
